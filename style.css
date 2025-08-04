@@ -1,0 +1,21 @@
+body{
+    background-color: #f68888;
+    
+}
+.hd
+{
+    background-color: #c6adad;
+    text-align: center;
+}
+.hero{
+    background-image: url("bg2.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    height:300px;
+    width:  100%;
+
+}
+.foot
+{
+    background-color: #c6adad;
+}
